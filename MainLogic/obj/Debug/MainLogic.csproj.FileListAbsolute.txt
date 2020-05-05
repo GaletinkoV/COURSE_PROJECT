@@ -1,0 +1,15 @@
+D:\Course Project\MainLogic\obj\Debug\MainLogic.csprojAssemblyReference.cache
+D:\Course Project\MainLogic\obj\Debug\MainLogic.Form1.resources
+D:\Course Project\MainLogic\obj\Debug\MainLogic.Properties.Resources.resources
+D:\Course Project\MainLogic\obj\Debug\MainLogic.csproj.GenerateResource.cache
+D:\Course Project\MainLogic\obj\Debug\MainLogic.csproj.CoreCompileInputs.cache
+D:\Course Project\MainLogic\bin\Debug\MainLogic.exe.config
+D:\Course Project\MainLogic\bin\Debug\MainLogic.exe
+D:\Course Project\MainLogic\bin\Debug\MainLogic.pdb
+D:\Course Project\MainLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Course Project\MainLogic\bin\Debug\Telegram.Bot.dll
+D:\Course Project\MainLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Course Project\MainLogic\bin\Debug\Telegram.Bot.xml
+D:\Course Project\MainLogic\obj\Debug\MainLogic.csproj.CopyComplete
+D:\Course Project\MainLogic\obj\Debug\MainLogic.exe
+D:\Course Project\MainLogic\obj\Debug\MainLogic.pdb
